@@ -1,4 +1,4 @@
-# PSA-unboXed-Business-Analytics-Challenge
+# PSA unboXed Data Analytics  Business Challenge
 ## Analytics Scope
 
 PORTNET® is the first nation-wide business-to-business (B2B) port community solution that empowers the shipping community to easily manage the complexity of cargo operations and the entire shipping process.
